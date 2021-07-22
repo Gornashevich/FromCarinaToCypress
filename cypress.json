@@ -1,0 +1,11 @@
+
+{
+  "baseUrl": "http://automationpractice.com/index.php",
+  "ignoreTestFiles": "**/2-advanced-examples/*",
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "testFiles": "**/*.feature"
+
+}
+
+

@@ -1,0 +1,28 @@
+{
+  "name": "FromCarinaToCypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gornashevich/FromCarinaToCypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gornashevich/FromCarinaToCypress/issues"
+  },
+  "homepage": "https://github.com/Gornashevich/FromCarinaToCypress#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^8.0.0",
+    "cypress-cucumber-preprocessor": "^4.1.4"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}
