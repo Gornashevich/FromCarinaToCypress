@@ -19,8 +19,8 @@
   "homepage": "https://github.com/Gornashevich/FromCarinaToCypress#readme",
   "dependencies": {},
   "devDependencies": {
-    "cypress": "^8.0.0",
-    "cypress-cucumber-preprocessor": "^4.1.4"
+    "cypress": "^8.1.0",
+    "cypress-cucumber-preprocessor": "^4.2.0"
   },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true

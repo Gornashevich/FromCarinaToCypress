@@ -1,0 +1,10 @@
+{
+  "login": "stephanturanov@gmail.com",
+  "pass" : "12345",
+  "firstName" : "Ivan",
+  "lastName" : "Ivanov",
+  "street" : "Pobedi 12",
+  "city" : "Victoria",
+  "zip" : "00000",
+  "mobile" : "1122334455"
+}

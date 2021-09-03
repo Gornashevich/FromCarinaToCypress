@@ -1,0 +1,20 @@
+{
+  "signInButton" : "[class='header_user_info'] > a",
+  "buttonWomen" : ".sfHoverForce > [href=\"http://automationpractice.com/index.php?id_category=3&controller=category\"]",
+  "submit" : "#SubmitLogin",
+  "email" : "#email",
+  "password" : "#passwd",
+  "address" : "#email_create",
+  "pass" : "#passwd",
+  "createAcc" : "#SubmitCreate",
+  "firstName" : "#customer_firstname",
+  "lastName" : "#customer_lastname",
+  "street" : "#address1",
+  "city" : "#city",
+  "idState" : "#id_state",
+  "state" : "#id_state > :nth-child(10)",
+  "zip" : "#postcode",
+  "mobile" : "#phone_mobile",
+  "submitRegistration" : "#submitAccount",
+  "listProductItems" : "div.right-block > h5 > a"
+}
